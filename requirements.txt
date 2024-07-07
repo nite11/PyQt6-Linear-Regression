@@ -1,0 +1,5 @@
+pyqt6
+pandas
+scikit-learn
+matplotlib
+requests
